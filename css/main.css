@@ -10,3 +10,15 @@ h1 {
   font-size: 1.5rem;
   color: #3f1622;
 }
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: #8f2440;
+  text-decoration: none;
+}
