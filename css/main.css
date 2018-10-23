@@ -4,8 +4,7 @@ html {
 }
 
 h1 {
-  font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-family: "PT Sans", bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -16,7 +15,7 @@ header nav ol {
 
 nav a {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.125rem;
   color: #8f2440;
   text-decoration: none;
