@@ -4,8 +4,8 @@ html {
   }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
-  font-weight: 700;
+  font-family: "PT Sans", sans-serif;
+  font-weight: normal;
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -15,7 +15,7 @@ header nav ol {
 }
 
 nav a {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: 700;
   font-size: 1.125rem;
   color: #8f2440;
@@ -32,7 +32,7 @@ img {
 }
 
 figcaption {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-style: italic;
   font-size: 1.125rem;
   text-align: center;
@@ -40,7 +40,7 @@ figcaption {
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-style: normal;
   font-weight: bold;
   font-size: 1.125rem;
