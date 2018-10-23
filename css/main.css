@@ -9,6 +9,12 @@ h1 {
   color: #3f1622;
 }
 
+h2 {
+  font-family: "PT Sans", bold;
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
 header nav ol {
   list-style-type: none;
 }
@@ -27,7 +33,7 @@ nav a:hover {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 figcaption {
@@ -39,12 +45,21 @@ figcaption {
   color: #222;
 }
 
-p {
+h3 {
   font-family: "PT Serif", serif;
   font-style: normal;
   font-weight: bold;
   font-size: 1.125rem;
   text-align: left;
+  color: #222;
+}
+
+p {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 0.8rem;
+  text-align: center;
   color: #222;
 }
 
