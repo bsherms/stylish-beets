@@ -58,8 +58,16 @@ p {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-weight: normal;
-  font-size: 0.8rem;
-  text-align: center;
+  font-size: 1.125rem;
+  color: #222;
+}
+
+blockquote {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.5rem;
+  text-align: left;
   color: #222;
 }
 
