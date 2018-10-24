@@ -73,11 +73,11 @@ blockquote {
   color: #222;
 }
 
-blockquote cite {
+cite {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-weight: normal;
   font-size: 0.8rem;
-  text-align: left;
+  text-align: center;
   color: #222;
 }
