@@ -57,10 +57,9 @@ h3 {
   color: #222;
 }
 
-p {
+dt {
   font-family: "PT Serif", serif;
-  font-style: italic;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1.125rem;
   color: #222;
 }
