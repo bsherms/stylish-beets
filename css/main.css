@@ -72,3 +72,12 @@ blockquote {
   text-align: left;
   color: #222;
 }
+
+blockquote cite {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 0.8rem;
+  text-align: left;
+  color: #222;
+}
